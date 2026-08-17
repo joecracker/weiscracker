@@ -26,6 +26,12 @@ separate AI/voice features into each one, there's ONE gateway agent. Each app
 gets its own tool-schema; the core agent logic never changes when a new app
 is added.
 
+**Backup status:** code is version-controlled and pushed to a **private**
+GitHub repo: `github.com/joecracker/weiscracker`. This is the real source of
+truth for the code — if Cloud Shell ever gets wiped, `git clone` from there
+gets everything back. Habit going forward: `git add . && git commit -m "..."
+&& git push` after any real chunk of progress.
+
 **Stack:**
 - Google Cloud Platform (project ID `g-for-windows-12557`, display name
   "universal-action-ai-gw")
@@ -165,6 +171,9 @@ each session.
   ADK's dev UI → agent correctly called `search_catalog("outlet")` →
   correctly called `place_asset("OUT")`. This was the core proof-of-concept
   moment — the intent-to-action translation genuinely works.
+- **Git set up, pushed to private GitHub repo** (`joecracker/weiscracker`).
+  `venv/`, `.env`, and ADK's local `.adk/` session db are gitignored — only
+  real code/data is tracked.
 
 ### 🚧 In progress / last known issue
 **Immediate blocker as of last session:** a manual edit to `agent.py`'s
@@ -188,10 +197,6 @@ after acting instead of replying with nothing.
   (live on Netlify) has zero code written to call Weiscracker. The loop has
   only been proven inside ADK's own test chat, never against the real app's
   UI/canvas.
-- **No git / version control confirmed.** This is worth explicitly
-  double-checking — if the code isn't in a git repo (local or GitHub), that
-  is the actual fix for "I'm scared of losing my work," more so than this
-  document. Confirm this and set it up if it doesn't exist yet.
 - **No auth/API key layer.** Whenever this becomes a real Cloud Run service,
   it'll need a key so random people can't call it and burn through credit.
 - Personality/smartass toggle — discussed, not implemented
@@ -251,23 +256,18 @@ after acting instead of replying with nothing.
 1. **Confirm the agent.py fix landed** — verify syntax compiles clean and
    re-run the "add an outlet" test in `adk web` to confirm the loop still
    works end to end with a non-empty final reply.
-2. **Set up real version control if it doesn't exist yet.** This is the
-   actual fix for the "lost everything" scare — this markdown file helps an
-   AI session get re-oriented, but it doesn't protect the code itself.
-   `git init` in `~/cracker`, commit, push to a private GitHub repo. Do this
-   before building much more.
-3. **Stand up a real HTTP endpoint**, not just the ADK dev UI. Either
+2. **Stand up a real HTTP endpoint**, not just the ADK dev UI. Either
    `adk api_server` or wrap `google.adk.cli.fast_api.get_fast_api_app()` in
    a small FastAPI app — something an external app can actually POST to.
-4. **Deploy to Cloud Run.** This was always the target architecture; nothing
+3. **Deploy to Cloud Run.** This was always the target architecture; nothing
    has been deployed anywhere yet.
-5. **Wire ONE real button in the real Field Layout Tracker app** to prove
+4. **Wire ONE real button in the real Field Layout Tracker app** to prove
    the full loop (voice/text → Weiscracker → real JSON → real app executes
    `place_asset()`) before building out more features. Don't add scope
    until this single real connection is proven.
-6. **Add basic auth** (API key check) before the Cloud Run URL is anything
+5. **Add basic auth** (API key check) before the Cloud Run URL is anything
    other than 127.0.0.1-only.
-7. Then, in whatever order Tim wants: personality/smartass toggle, web
+6. Then, in whatever order Tim wants: personality/smartass toggle, web
    search tool, conversational (non-terse) responses, additional app
    schemas.
 
