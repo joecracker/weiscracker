@@ -1,0 +1,3026 @@
+[
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B09",
+    "name": "Base 9\"",
+    "width": 9,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B12",
+    "name": "Base 12\"",
+    "width": 12,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B15",
+    "name": "Base 15\"",
+    "width": 15,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B18",
+    "name": "Base 18\"",
+    "width": 18,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B21",
+    "name": "Base 21\"",
+    "width": 21,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B24",
+    "name": "Base 24\"",
+    "width": 24,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B27",
+    "name": "Base 27\"",
+    "width": 27,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B30",
+    "name": "Base 30\"",
+    "width": 30,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B33",
+    "name": "Base 33\"",
+    "width": 33,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B36",
+    "name": "Base 36\"",
+    "width": 36,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "SB36",
+    "name": "Sink Base 36\"",
+    "width": 36,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B42",
+    "name": "Base 42\"",
+    "width": 42,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B48",
+    "name": "Base 48\"",
+    "width": 48,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "LS36",
+    "name": "Corner Lazy Susan 36x36",
+    "width": 36,
+    "depth": 36,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "ISL60",
+    "name": "Kitchen Island 60x36",
+    "width": 60,
+    "depth": 36,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W0930",
+    "name": "Upper Wall 9\"",
+    "width": 9,
+    "depth": 12,
+    "height": 30
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1230",
+    "name": "Upper Wall 12\"",
+    "width": 12,
+    "depth": 12,
+    "height": 30
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1830",
+    "name": "Upper Wall 18\"",
+    "width": 18,
+    "depth": 12,
+    "height": 30
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2430",
+    "name": "Upper Wall 24\"",
+    "width": 24,
+    "depth": 12,
+    "height": 30
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3030",
+    "name": "Upper Wall 30\"",
+    "width": 30,
+    "depth": 12,
+    "height": 30
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3630",
+    "name": "Upper Wall 36\"",
+    "width": 36,
+    "depth": 12,
+    "height": 30
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2424",
+    "name": "Corner Upper 24x24",
+    "width": 24,
+    "depth": 24,
+    "height": 30
+  },
+  {
+    "type": "cabinet",
+    "category": "Tall/Utility",
+    "code": "UT1884",
+    "name": "Utility / Pantry 18\" (84\"H)",
+    "width": 18,
+    "depth": 24,
+    "height": 84
+  },
+  {
+    "type": "cabinet",
+    "category": "Tall/Utility",
+    "code": "UT2484",
+    "name": "Utility / Pantry 24\" (84\"H)",
+    "width": 24,
+    "depth": 24,
+    "height": 84
+  },
+  {
+    "type": "cabinet",
+    "category": "Tall/Utility",
+    "code": "UT3084",
+    "name": "Utility / Pantry 30\" (84\"H)",
+    "width": 30,
+    "depth": 24,
+    "height": 84
+  },
+  {
+    "type": "cabinet",
+    "category": "Tall/Utility",
+    "code": "UT3696",
+    "name": "Utility / Pantry 36\" (96\"H)",
+    "width": 36,
+    "depth": 24,
+    "height": 96
+  },
+  {
+    "type": "cabinet",
+    "category": "Trim & Fillers",
+    "code": "FIL3",
+    "name": "Base Filler 3\"",
+    "width": 3,
+    "depth": 0.75,
+    "height": 34.5,
+    "desc": "3-inch base filler, editable height/width"
+  },
+  {
+    "type": "cabinet",
+    "category": "Trim & Fillers",
+    "code": "FIL6",
+    "name": "Base Filler 6\"",
+    "width": 6,
+    "depth": 0.75,
+    "height": 34.5,
+    "desc": "6-inch base filler, editable height/width"
+  },
+  {
+    "type": "cabinet",
+    "category": "Trim & Fillers",
+    "code": "FIL3U30",
+    "name": "Upper Filler 3\" (30\"H)",
+    "width": 3,
+    "depth": 0.75,
+    "height": 30,
+    "desc": "3-inch upper filler"
+  },
+  {
+    "type": "cabinet",
+    "category": "Trim & Fillers",
+    "code": "FIL6U30",
+    "name": "Upper Filler 6\" (30\"H)",
+    "width": 6,
+    "depth": 0.75,
+    "height": 30,
+    "desc": "6-inch upper filler"
+  },
+  {
+    "type": "cabinet",
+    "category": "Trim & Fillers",
+    "code": "FIL6U36",
+    "name": "Upper Filler 6\" (36\"H)",
+    "width": 6,
+    "depth": 0.75,
+    "height": 36,
+    "desc": "6-inch upper filler"
+  },
+  {
+    "type": "cabinet",
+    "category": "Trim & Fillers",
+    "code": "FIL6U42",
+    "name": "Upper Filler 6\" (42\"H)",
+    "width": 6,
+    "depth": 0.75,
+    "height": 42,
+    "desc": "6-inch upper filler"
+  },
+  {
+    "type": "cabinet",
+    "category": "Trim & Fillers",
+    "code": "FIL3U36",
+    "name": "Upper Filler 3\" (36\"H)",
+    "width": 3,
+    "depth": 0.75,
+    "height": 36,
+    "desc": "3-inch upper filler"
+  },
+  {
+    "type": "cabinet",
+    "category": "Trim & Fillers",
+    "code": "FIL3U42",
+    "name": "Upper Filler 3\" (42\"H)",
+    "width": 3,
+    "depth": 0.75,
+    "height": 42,
+    "desc": "3-inch upper filler"
+  },
+  {
+    "type": "cabinet",
+    "category": "Trim & Fillers",
+    "code": "FIL3T84",
+    "name": "Tall Filler 3\" (84\"H)",
+    "width": 3,
+    "depth": 0.75,
+    "height": 84,
+    "desc": "3-inch tall filler for pantry/oven"
+  },
+  {
+    "type": "cabinet",
+    "category": "Trim & Fillers",
+    "code": "FIL3T96",
+    "name": "Tall Filler 3\" (96\"H)",
+    "width": 3,
+    "depth": 0.75,
+    "height": 96,
+    "desc": "3-inch tall filler for pantry/oven"
+  },
+  {
+    "type": "cabinet",
+    "category": "Trim & Fillers",
+    "code": "FIL6T84",
+    "name": "Tall Filler 6\" (84\"H)",
+    "width": 6,
+    "depth": 0.75,
+    "height": 84,
+    "desc": "6-inch tall filler for pantry/oven"
+  },
+  {
+    "type": "cabinet",
+    "category": "Trim & Fillers",
+    "code": "FIL6T96",
+    "name": "Tall Filler 6\" (96\"H)",
+    "width": 6,
+    "depth": 0.75,
+    "height": 96,
+    "desc": "6-inch tall filler for pantry/oven"
+  },
+  {
+    "type": "cabinet",
+    "category": "Trim & Fillers",
+    "code": "TOEKICK",
+    "name": "Toe Kick (96\")",
+    "width": 96,
+    "depth": 0.25,
+    "height": 4.5,
+    "desc": "Standard 8ft toe kick"
+  },
+  {
+    "type": "cabinet",
+    "category": "Trim & Fillers",
+    "code": "SCRIBE",
+    "name": "Scribe Molding (96\")",
+    "width": 96,
+    "depth": 0.25,
+    "height": 0.75,
+    "desc": "Standard 8ft scribe molding"
+  },
+  {
+    "type": "cabinet",
+    "category": "Trim & Fillers",
+    "code": "BASESHOE",
+    "name": "Base Shoe (96\")",
+    "width": 96,
+    "depth": 0.5,
+    "height": 0.75,
+    "desc": "Standard 8ft base shoe"
+  },
+  {
+    "type": "cabinet",
+    "category": "Vanities",
+    "code": "V24",
+    "name": "Vanity 24\" Single",
+    "width": 24,
+    "depth": 21,
+    "height": 31
+  },
+  {
+    "type": "cabinet",
+    "category": "Vanities",
+    "code": "V30",
+    "name": "Vanity 30\" Single",
+    "width": 30,
+    "depth": 21,
+    "height": 31
+  },
+  {
+    "type": "cabinet",
+    "category": "Vanities",
+    "code": "V36",
+    "name": "Vanity 36\" Single",
+    "width": 36,
+    "depth": 21,
+    "height": 31
+  },
+  {
+    "type": "cabinet",
+    "category": "Vanities",
+    "code": "V48",
+    "name": "Vanity 48\" Single/Dbl",
+    "width": 48,
+    "depth": 21,
+    "height": 31
+  },
+  {
+    "type": "cabinet",
+    "category": "Vanities",
+    "code": "V60",
+    "name": "Vanity 60\" Double Sink",
+    "width": 60,
+    "depth": 21,
+    "height": 31
+  },
+  {
+    "type": "cabinet",
+    "category": "Vanities",
+    "code": "LT1884",
+    "name": "Linen Tower 18\" (84\"H)",
+    "width": 18,
+    "depth": 21,
+    "height": 84
+  },
+  {
+    "type": "plumbing",
+    "category": "Shower & Bath",
+    "code": "SH6036",
+    "name": "Walk-In Shower 60x36",
+    "width": 60,
+    "depth": 36,
+    "height": 80,
+    "kneeWallWidth": 0,
+    "glassDoorWidth": 30,
+    "drainType": "center",
+    "hasWallHead": true
+  },
+  {
+    "type": "plumbing",
+    "category": "Shower & Bath",
+    "code": "SH4836",
+    "name": "Walk-In Shower 48x36",
+    "width": 48,
+    "depth": 36,
+    "height": 80,
+    "kneeWallWidth": 0,
+    "glassDoorWidth": 24,
+    "drainType": "center",
+    "hasWallHead": true
+  },
+  {
+    "type": "plumbing",
+    "category": "Shower & Bath",
+    "code": "SH7242",
+    "name": "Walk-In Shower 72x42",
+    "width": 72,
+    "depth": 42,
+    "height": 80,
+    "kneeWallWidth": 36,
+    "glassDoorWidth": 30,
+    "drainType": "center",
+    "hasWallHead": true
+  },
+  {
+    "type": "plumbing",
+    "category": "Shower & Bath",
+    "code": "SH7248",
+    "name": "Walk-In Shower 72x48",
+    "width": 72,
+    "depth": 48,
+    "height": 80,
+    "kneeWallWidth": 40,
+    "glassDoorWidth": 30,
+    "drainType": "center",
+    "hasWallHead": true
+  },
+  {
+    "type": "plumbing",
+    "category": "Shower & Bath",
+    "code": "KWG",
+    "name": "Knee Wall w/ Glass Panel",
+    "width": 70,
+    "depth": 36,
+    "height": 80,
+    "kneeWallWidth": 40,
+    "glassDoorWidth": 30,
+    "enclosureStyle": "kneewall_glass"
+  },
+  {
+    "type": "plumbing",
+    "category": "Shower & Bath",
+    "code": "KWFULL",
+    "name": "Full Height Enclosure Wall",
+    "width": 70,
+    "depth": 36,
+    "height": 96,
+    "kneeWallWidth": 40,
+    "glassDoorWidth": 30,
+    "enclosureStyle": "full_wall"
+  },
+  {
+    "type": "plumbing",
+    "category": "Shower & Bath",
+    "code": "GD30",
+    "name": "Glass Shower Door 30\"",
+    "width": 30,
+    "depth": 4,
+    "height": 76
+  },
+  {
+    "type": "plumbing",
+    "category": "Shower & Bath",
+    "code": "TUB60",
+    "name": "Standard Tub 60x30",
+    "width": 60,
+    "depth": 30,
+    "height": 16
+  },
+  {
+    "type": "plumbing",
+    "category": "Shower & Bath",
+    "code": "STUB66",
+    "name": "Soaker Tub 66x32",
+    "width": 66,
+    "depth": 32,
+    "height": 24
+  },
+  {
+    "type": "plumbing",
+    "category": "Shower & Bath",
+    "code": "TOI",
+    "name": "Toilet",
+    "width": 18,
+    "depth": 28,
+    "height": 30
+  },
+  {
+    "type": "plumbing",
+    "category": "Sinks & Kitchen",
+    "code": "KSINK",
+    "name": "Kitchen Sink 33x22",
+    "width": 33,
+    "depth": 22,
+    "height": 10
+  },
+  {
+    "type": "plumbing",
+    "category": "Sinks & Kitchen",
+    "code": "VSINK",
+    "name": "Vanity Oval Sink",
+    "width": 20,
+    "depth": 16,
+    "height": 8
+  },
+  {
+    "type": "plumbing",
+    "category": "Faucets & Valves",
+    "code": "TSFAC",
+    "name": "Tub & Shower Faucet w/ Head",
+    "width": 6,
+    "depth": 4,
+    "height": 48,
+    "desc": "Tub and shower diverter valve with shower head"
+  },
+  {
+    "type": "plumbing",
+    "category": "Faucets & Valves",
+    "code": "SHFAC",
+    "name": "Shower Faucet w/ Head",
+    "width": 6,
+    "depth": 4,
+    "height": 48,
+    "desc": "Shower pressure-balance valve with shower head"
+  },
+  {
+    "type": "plumbing",
+    "category": "Faucets & Valves",
+    "code": "LAVFAC",
+    "name": "Lavatory Faucet",
+    "width": 6,
+    "depth": 6,
+    "height": 12,
+    "desc": "Bathroom sink faucet"
+  },
+  {
+    "type": "plumbing",
+    "category": "Faucets & Valves",
+    "code": "KFAC",
+    "name": "Kitchen Sink Faucet",
+    "width": 8,
+    "depth": 8,
+    "height": 16,
+    "desc": "Kitchen pull-down faucet"
+  },
+  {
+    "type": "plumbing",
+    "category": "Utility & Rough-In",
+    "code": "LTUB",
+    "name": "Laundry Tub 24x24",
+    "width": 24,
+    "depth": 24,
+    "height": 34,
+    "desc": "Utility laundry sink"
+  },
+  {
+    "type": "plumbing",
+    "category": "Utility & Rough-In",
+    "code": "WBOX",
+    "name": "Washer Supply & Drain Box",
+    "width": 8,
+    "depth": 4,
+    "height": 32,
+    "desc": "Washing machine water supply and drain rough-in box"
+  },
+  {
+    "type": "plumbing",
+    "category": "Utility & Rough-In",
+    "code": "HOSEBIB",
+    "name": "Outside Hose Bib / Sillcock",
+    "width": 6,
+    "depth": 6,
+    "height": 18,
+    "desc": "Exterior frost-free wall hydrant"
+  },
+  {
+    "type": "plumbing",
+    "category": "Utility & Rough-In",
+    "code": "ICEMAKER",
+    "name": "Refrigerator Ice Maker Supply",
+    "width": 6,
+    "depth": 4,
+    "height": 24,
+    "desc": "Ice maker water supply valve box"
+  },
+  {
+    "type": "custom",
+    "category": "Appliances",
+    "code": "REF",
+    "name": "Refrigerator 36\"",
+    "width": 36,
+    "depth": 30,
+    "height": 70,
+    "desc": "Standard freestanding or counter-depth refrigerator (editable)"
+  },
+  {
+    "type": "custom",
+    "category": "Appliances",
+    "code": "RGE30",
+    "name": "30\" Electric/Gas Range",
+    "width": 30,
+    "depth": 30,
+    "height": 36,
+    "desc": "30-inch freestanding range with oven"
+  },
+  {
+    "type": "custom",
+    "category": "Appliances",
+    "code": "COOK30",
+    "name": "30\" Cooktop",
+    "width": 30,
+    "depth": 21,
+    "height": 4,
+    "desc": "Countertop drop-in electric/gas cooktop"
+  },
+  {
+    "type": "custom",
+    "category": "Appliances",
+    "code": "BOVEN",
+    "name": "Built-In Wall Oven 30\"",
+    "width": 30,
+    "depth": 24,
+    "height": 30,
+    "desc": "Built-in single wall oven for tall pantry units"
+  },
+  {
+    "type": "custom",
+    "category": "Appliances",
+    "code": "OWMIC",
+    "name": "Over-the-Range Microwave",
+    "width": 30,
+    "depth": 15,
+    "height": 16,
+    "desc": "Space-saver microwave / hood combo"
+  },
+  {
+    "type": "custom",
+    "category": "Appliances",
+    "code": "RHOOD",
+    "name": "Range Hood 30\"",
+    "width": 30,
+    "depth": 20,
+    "height": 10,
+    "desc": "30-inch range ventilation hood"
+  },
+  {
+    "type": "custom",
+    "category": "Appliances",
+    "code": "DISHW",
+    "name": "Built-in Dishwasher 24\"",
+    "width": 24,
+    "depth": 24,
+    "height": 34.5,
+    "desc": "Standard 24-inch under-counter dishwasher"
+  },
+  {
+    "type": "electrical",
+    "category": "Outlets",
+    "code": "OUT",
+    "name": "Duplex Outlet 120V",
+    "width": 12,
+    "depth": 12,
+    "height": 4,
+    "desc": "Standard 120V 15A duplex receptacle"
+  },
+  {
+    "type": "electrical",
+    "category": "Outlets",
+    "code": "GFCI",
+    "name": "GFCI Safety Outlet",
+    "width": 12,
+    "depth": 12,
+    "height": 4,
+    "desc": "Ground Fault Circuit Interrupter receptacle"
+  },
+  {
+    "type": "electrical",
+    "category": "Outlets",
+    "code": "RANGE240",
+    "name": "Dedicated Range 240V",
+    "width": 14,
+    "depth": 14,
+    "height": 4,
+    "desc": "240V 50A outlet for electric range"
+  },
+  {
+    "type": "electrical",
+    "category": "Outlets",
+    "code": "DRYER240",
+    "name": "Dedicated Dryer 240V",
+    "width": 14,
+    "depth": 14,
+    "height": 4,
+    "desc": "240V 30A outlet for electric dryer"
+  },
+  {
+    "type": "electrical",
+    "category": "Outlets",
+    "code": "USB",
+    "name": "USB Combo Outlet",
+    "width": 12,
+    "depth": 12,
+    "height": 4,
+    "desc": "120V duplex outlet with integrated USB charging ports"
+  },
+  {
+    "type": "electrical",
+    "category": "Outlets",
+    "code": "FLOOR",
+    "name": "Floor Outlet",
+    "width": 14,
+    "depth": 14,
+    "height": 4,
+    "desc": "Recessed floor electrical box"
+  },
+  {
+    "type": "electrical",
+    "category": "Outlets",
+    "code": "WP",
+    "name": "Weatherproof Outlet",
+    "width": 12,
+    "depth": 12,
+    "height": 4,
+    "desc": "GFCI outlet with weatherproof in-use cover"
+  },
+  {
+    "type": "electrical",
+    "category": "Switches",
+    "code": "SW1",
+    "name": "Single Pole Switch",
+    "width": 10,
+    "depth": 10,
+    "height": 4,
+    "desc": "Standard single-pole light switch"
+  },
+  {
+    "type": "electrical",
+    "category": "Switches",
+    "code": "SW3",
+    "name": "3-Way Switch",
+    "width": 10,
+    "depth": 10,
+    "height": 4,
+    "desc": "Three-way switch for multi-location control"
+  },
+  {
+    "type": "electrical",
+    "category": "Switches",
+    "code": "SW4",
+    "name": "4-Way Switch",
+    "width": 10,
+    "depth": 10,
+    "height": 4,
+    "desc": "Multi-location lighting control switch"
+  },
+  {
+    "type": "electrical",
+    "category": "Switches",
+    "code": "DIM",
+    "name": "Dimmer Switch",
+    "width": 10,
+    "depth": 10,
+    "height": 4,
+    "desc": "Slide or rotary dimmer switch"
+  },
+  {
+    "type": "electrical",
+    "category": "Switches",
+    "code": "DISP",
+    "name": "Garbage Disposal Switch",
+    "width": 10,
+    "depth": 10,
+    "height": 4,
+    "desc": "Dedicated switch for kitchen sink disposal"
+  },
+  {
+    "type": "electrical",
+    "category": "Lighting & Fans",
+    "code": "CAN",
+    "name": "Recessed LED Can Light",
+    "width": 14,
+    "depth": 14,
+    "height": 6,
+    "desc": "Recessed ceiling downlight fixture"
+  },
+  {
+    "type": "electrical",
+    "category": "Lighting & Fans",
+    "code": "FAN",
+    "name": "Ceiling Fan / Light",
+    "width": 36,
+    "depth": 36,
+    "height": 12,
+    "desc": "Ceiling paddle fan with integrated light kit"
+  },
+  {
+    "type": "electrical",
+    "category": "Lighting & Fans",
+    "code": "VBAR",
+    "name": "Vanity Light Bar 30\"",
+    "width": 30,
+    "depth": 6,
+    "height": 8,
+    "desc": "Bathroom vanity lighting strip"
+  },
+  {
+    "type": "electrical",
+    "category": "Lighting & Fans",
+    "code": "FANEX",
+    "name": "Exhaust Fan / Heater",
+    "width": 16,
+    "depth": 16,
+    "height": 8,
+    "desc": "Bathroom ventilation exhaust fan"
+  },
+  {
+    "type": "electrical",
+    "category": "Lighting & Fans",
+    "code": "PEND",
+    "name": "Pendant Light",
+    "width": 14,
+    "depth": 14,
+    "height": 18,
+    "desc": "Hanging decorative pendant fixture"
+  },
+  {
+    "type": "electrical",
+    "category": "Lighting & Fans",
+    "code": "UCAB",
+    "name": "Under-Cabinet Light",
+    "width": 24,
+    "depth": 4,
+    "height": 2,
+    "desc": "Task lighting strip for under cabinets"
+  },
+  {
+    "type": "electrical",
+    "category": "Lighting & Fans",
+    "code": "SCONCE",
+    "name": "Wall Sconce",
+    "width": 8,
+    "depth": 8,
+    "height": 12,
+    "desc": "Wall-mounted accent light fixture"
+  },
+  {
+    "type": "electrical",
+    "category": "Lighting & Fans",
+    "code": "SMOKE",
+    "name": "Smoke/CO Detector",
+    "width": 6,
+    "depth": 6,
+    "height": 2,
+    "desc": "Combination smoke and carbon monoxide detector"
+  },
+  {
+    "type": "electrical",
+    "category": "Appliance Circuits",
+    "code": "MWAVE",
+    "name": "Space-Saver Microwave",
+    "width": 24,
+    "depth": 15,
+    "height": 16,
+    "desc": "Dedicated circuit connection for over-range microwave"
+  },
+  {
+    "type": "electrical",
+    "category": "Appliance Circuits",
+    "code": "DISHW",
+    "name": "Dishwasher Junction",
+    "width": 16,
+    "depth": 16,
+    "height": 4,
+    "desc": "Dedicated under-counter connection for dishwasher"
+  },
+  {
+    "type": "electrical",
+    "category": "Appliance Circuits",
+    "code": "HOOD",
+    "name": "Range Hood",
+    "width": 30,
+    "depth": 12,
+    "height": 10,
+    "desc": "Dedicated electrical connection for range ventilation hood"
+  },
+  {
+    "type": "electrical",
+    "category": "Panels & Service",
+    "code": "PANEL",
+    "name": "Main Breaker Panel",
+    "width": 24,
+    "depth": 6,
+    "height": 36,
+    "desc": "Main electrical service panel 200A"
+  },
+  {
+    "type": "electrical",
+    "category": "Panels & Service",
+    "code": "SUBPANEL",
+    "name": "Sub-Panel",
+    "width": 16,
+    "depth": 6,
+    "height": 24,
+    "desc": "Secondary sub-panel distribution center"
+  },
+  {
+    "type": "electrical",
+    "category": "Exterior",
+    "code": "EXTOUT",
+    "name": "Exterior Outlet",
+    "width": 12,
+    "depth": 12,
+    "height": 4,
+    "desc": "Outdoor rated GFCI duplex receptacle"
+  },
+  {
+    "type": "electrical",
+    "category": "Exterior",
+    "code": "FLOOD",
+    "name": "Flood/Security Light",
+    "width": 16,
+    "depth": 8,
+    "height": 10,
+    "desc": "Outdoor motion-activated security floodlight"
+  },
+  {
+    "type": "electrical",
+    "category": "Exterior",
+    "code": "POST",
+    "name": "Deck/Post Light",
+    "width": 8,
+    "depth": 8,
+    "height": 16,
+    "desc": "Exterior pathway or post cap light fixture"
+  },
+  {
+    "type": "electrical",
+    "category": "Junction",
+    "code": "JBOX",
+    "name": "Junction Box",
+    "width": 12,
+    "depth": 12,
+    "height": 4,
+    "desc": "Electrical wire connection box"
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1212",
+    "name": "Wall Single Door 12x12",
+    "width": 12,
+    "depth": 12,
+    "height": 12
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1512",
+    "name": "Wall Single Door 15x12",
+    "width": 15,
+    "depth": 12,
+    "height": 12
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1812",
+    "name": "Wall Single Door 18x12",
+    "width": 18,
+    "depth": 12,
+    "height": 12
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2112B",
+    "name": "Wall Double Door 21x12",
+    "width": 21,
+    "depth": 12,
+    "height": 12
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2412B",
+    "name": "Wall Double Door 24x12",
+    "width": 24,
+    "depth": 12,
+    "height": 12
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2712B",
+    "name": "Wall Double Door 27x12",
+    "width": 27,
+    "depth": 12,
+    "height": 12
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3012B",
+    "name": "Wall Double Door 30x12",
+    "width": 30,
+    "depth": 12,
+    "height": 12
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3312B",
+    "name": "Wall Double Door 33x12",
+    "width": 33,
+    "depth": 12,
+    "height": 12
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3612B",
+    "name": "Wall Double Door 36x12",
+    "width": 36,
+    "depth": 12,
+    "height": 12
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3912",
+    "name": "Wall Cabinet 39x12",
+    "width": 39,
+    "depth": 12,
+    "height": 12
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1215",
+    "name": "Wall Single Door 12x15",
+    "width": 12,
+    "depth": 12,
+    "height": 15
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1515",
+    "name": "Wall Single Door 15x15",
+    "width": 15,
+    "depth": 12,
+    "height": 15
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1815",
+    "name": "Wall Single Door 18x15",
+    "width": 18,
+    "depth": 12,
+    "height": 15
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2115B",
+    "name": "Wall Double Door 21x15",
+    "width": 21,
+    "depth": 12,
+    "height": 15
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2415B",
+    "name": "Wall Double Door 24x15",
+    "width": 24,
+    "depth": 12,
+    "height": 15
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2715B",
+    "name": "Wall Double Door 27x15",
+    "width": 27,
+    "depth": 12,
+    "height": 15
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3015B",
+    "name": "Wall Double Door 30x15",
+    "width": 30,
+    "depth": 12,
+    "height": 15
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3315B",
+    "name": "Wall Double Door 33x15",
+    "width": 33,
+    "depth": 12,
+    "height": 15
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3615B",
+    "name": "Wall Double Door 36x15",
+    "width": 36,
+    "depth": 12,
+    "height": 15
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3915",
+    "name": "Wall Cabinet 39x15",
+    "width": 39,
+    "depth": 12,
+    "height": 15
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1218",
+    "name": "Wall Single Door 12x18",
+    "width": 12,
+    "depth": 12,
+    "height": 18
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1518",
+    "name": "Wall Single Door 15x18",
+    "width": 15,
+    "depth": 12,
+    "height": 18
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1818",
+    "name": "Wall Single Door 18x18",
+    "width": 18,
+    "depth": 12,
+    "height": 18
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2118",
+    "name": "Wall Single Door 21x18",
+    "width": 21,
+    "depth": 12,
+    "height": 18
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2418B",
+    "name": "Wall Double Door 24x18",
+    "width": 24,
+    "depth": 12,
+    "height": 18
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2718B",
+    "name": "Wall Double Door 27x18",
+    "width": 27,
+    "depth": 12,
+    "height": 18
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3018B",
+    "name": "Wall Double Door 30x18",
+    "width": 30,
+    "depth": 12,
+    "height": 18
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3318B",
+    "name": "Wall Double Door 33x18",
+    "width": 33,
+    "depth": 12,
+    "height": 18
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3618B",
+    "name": "Wall Double Door 36x18",
+    "width": 36,
+    "depth": 12,
+    "height": 18
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3918",
+    "name": "Wall Cabinet 39x18",
+    "width": 39,
+    "depth": 12,
+    "height": 18
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W4218",
+    "name": "Wall Cabinet 42x18",
+    "width": 42,
+    "depth": 12,
+    "height": 18
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1221",
+    "name": "Wall Single Door 12x21",
+    "width": 12,
+    "depth": 12,
+    "height": 21
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1521",
+    "name": "Wall Single Door 15x21",
+    "width": 15,
+    "depth": 12,
+    "height": 21
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1821",
+    "name": "Wall Single Door 18x21",
+    "width": 18,
+    "depth": 12,
+    "height": 21
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2121",
+    "name": "Wall Single Door 21x21",
+    "width": 21,
+    "depth": 12,
+    "height": 21
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2421B",
+    "name": "Wall Double Door 24x21",
+    "width": 24,
+    "depth": 12,
+    "height": 21
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2721B",
+    "name": "Wall Double Door 27x21",
+    "width": 27,
+    "depth": 12,
+    "height": 21
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3021B",
+    "name": "Wall Double Door 30x21",
+    "width": 30,
+    "depth": 12,
+    "height": 21
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3321B",
+    "name": "Wall Double Door 33x21",
+    "width": 33,
+    "depth": 12,
+    "height": 21
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3621B",
+    "name": "Wall Double Door 36x21",
+    "width": 36,
+    "depth": 12,
+    "height": 21
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3921",
+    "name": "Wall Cabinet 39x21",
+    "width": 39,
+    "depth": 12,
+    "height": 21
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1224",
+    "name": "Wall Single Door 12x24",
+    "width": 12,
+    "depth": 12,
+    "height": 24
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1524",
+    "name": "Wall Single Door 15x24",
+    "width": 15,
+    "depth": 12,
+    "height": 24
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1824",
+    "name": "Wall Single Door 18x24",
+    "width": 18,
+    "depth": 12,
+    "height": 24
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2124",
+    "name": "Wall Single Door 21x24",
+    "width": 21,
+    "depth": 12,
+    "height": 24
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2424",
+    "name": "Wall Single Door 24x24",
+    "width": 24,
+    "depth": 12,
+    "height": 24
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2724B",
+    "name": "Wall Double Door 27x24",
+    "width": 27,
+    "depth": 12,
+    "height": 24
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3024B",
+    "name": "Wall Double Door 30x24",
+    "width": 30,
+    "depth": 12,
+    "height": 24
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3324B",
+    "name": "Wall Double Door 33x24",
+    "width": 33,
+    "depth": 12,
+    "height": 24
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3624B",
+    "name": "Wall Double Door 36x24",
+    "width": 36,
+    "depth": 12,
+    "height": 24
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3924",
+    "name": "Wall Cabinet 39x24",
+    "width": 39,
+    "depth": 12,
+    "height": 24
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W4224",
+    "name": "Wall Cabinet 42x24",
+    "width": 42,
+    "depth": 12,
+    "height": 24
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W4524",
+    "name": "Wall Cabinet 45x24",
+    "width": 45,
+    "depth": 12,
+    "height": 24
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W4824",
+    "name": "Wall Cabinet 48x24",
+    "width": 48,
+    "depth": 12,
+    "height": 24
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1227",
+    "name": "Wall Single Door 12x27",
+    "width": 12,
+    "depth": 12,
+    "height": 27
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1527",
+    "name": "Wall Single Door 15x27",
+    "width": 15,
+    "depth": 12,
+    "height": 27
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1827",
+    "name": "Wall Single Door 18x27",
+    "width": 18,
+    "depth": 12,
+    "height": 27
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2127",
+    "name": "Wall Single Door 21x27",
+    "width": 21,
+    "depth": 12,
+    "height": 27
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2427",
+    "name": "Wall Single Door 24x27",
+    "width": 24,
+    "depth": 12,
+    "height": 27
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2727B",
+    "name": "Wall Double Door 27x27",
+    "width": 27,
+    "depth": 12,
+    "height": 27
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3027B",
+    "name": "Wall Double Door 30x27",
+    "width": 30,
+    "depth": 12,
+    "height": 27
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3327B",
+    "name": "Wall Double Door 33x27",
+    "width": 33,
+    "depth": 12,
+    "height": 27
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3627B",
+    "name": "Wall Double Door 36x27",
+    "width": 36,
+    "depth": 12,
+    "height": 27
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3927",
+    "name": "Wall Cabinet 39x27",
+    "width": 39,
+    "depth": 12,
+    "height": 27
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W930",
+    "name": "Wall Single Door 9x30",
+    "width": 9,
+    "depth": 12,
+    "height": 30
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1230",
+    "name": "Wall Single Door 12x30",
+    "width": 12,
+    "depth": 12,
+    "height": 30
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1530",
+    "name": "Wall Single Door 15x30",
+    "width": 15,
+    "depth": 12,
+    "height": 30
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1830",
+    "name": "Wall Single Door 18x30",
+    "width": 18,
+    "depth": 12,
+    "height": 30
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2130",
+    "name": "Wall Single Door 21x30",
+    "width": 21,
+    "depth": 12,
+    "height": 30
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2430",
+    "name": "Wall Single Door 24x30",
+    "width": 24,
+    "depth": 12,
+    "height": 30
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2430B",
+    "name": "Wall Double Door 24x30",
+    "width": 24,
+    "depth": 12,
+    "height": 30
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2730B",
+    "name": "Wall Double Door 27x30",
+    "width": 27,
+    "depth": 12,
+    "height": 30
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3030B",
+    "name": "Wall Double Door 30x30",
+    "width": 30,
+    "depth": 12,
+    "height": 30
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3330B",
+    "name": "Wall Double Door 33x30",
+    "width": 33,
+    "depth": 12,
+    "height": 30
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3630B",
+    "name": "Wall Double Door 36x30",
+    "width": 36,
+    "depth": 12,
+    "height": 30
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3930",
+    "name": "Wall Cabinet 39x30",
+    "width": 39,
+    "depth": 12,
+    "height": 30
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W4230",
+    "name": "Wall Cabinet 42x30",
+    "width": 42,
+    "depth": 12,
+    "height": 30
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W4530",
+    "name": "Wall Cabinet 45x30",
+    "width": 45,
+    "depth": 12,
+    "height": 30
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W4830",
+    "name": "Wall Cabinet 48x30",
+    "width": 48,
+    "depth": 12,
+    "height": 30
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W933",
+    "name": "Wall Single Door 9x33",
+    "width": 9,
+    "depth": 12,
+    "height": 33
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1233",
+    "name": "Wall Single Door 12x33",
+    "width": 12,
+    "depth": 12,
+    "height": 33
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1533",
+    "name": "Wall Single Door 15x33",
+    "width": 15,
+    "depth": 12,
+    "height": 33
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1833",
+    "name": "Wall Single Door 18x33",
+    "width": 18,
+    "depth": 12,
+    "height": 33
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2133",
+    "name": "Wall Single Door 21x33",
+    "width": 21,
+    "depth": 12,
+    "height": 33
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2433",
+    "name": "Wall Single Door 24x33",
+    "width": 24,
+    "depth": 12,
+    "height": 33
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2433B",
+    "name": "Wall Double Door 24x33",
+    "width": 24,
+    "depth": 12,
+    "height": 33
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2733B",
+    "name": "Wall Double Door 27x33",
+    "width": 27,
+    "depth": 12,
+    "height": 33
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3033B",
+    "name": "Wall Double Door 30x33",
+    "width": 30,
+    "depth": 12,
+    "height": 33
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3333B",
+    "name": "Wall Double Door 33x33",
+    "width": 33,
+    "depth": 12,
+    "height": 33
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3633B",
+    "name": "Wall Double Door 36x33",
+    "width": 36,
+    "depth": 12,
+    "height": 33
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3933",
+    "name": "Wall Cabinet 39x33",
+    "width": 39,
+    "depth": 12,
+    "height": 33
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W4233",
+    "name": "Wall Cabinet 42x33",
+    "width": 42,
+    "depth": 12,
+    "height": 33
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W4533",
+    "name": "Wall Cabinet 45x33",
+    "width": 45,
+    "depth": 12,
+    "height": 33
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W4833",
+    "name": "Wall Cabinet 48x33",
+    "width": 48,
+    "depth": 12,
+    "height": 33
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W936",
+    "name": "Wall Single Door 9x36",
+    "width": 9,
+    "depth": 12,
+    "height": 36
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1236",
+    "name": "Wall Single Door 12x36",
+    "width": 12,
+    "depth": 12,
+    "height": 36
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1536",
+    "name": "Wall Single Door 15x36",
+    "width": 15,
+    "depth": 12,
+    "height": 36
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1836",
+    "name": "Wall Single Door 18x36",
+    "width": 18,
+    "depth": 12,
+    "height": 36
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2136",
+    "name": "Wall Single Door 21x36",
+    "width": 21,
+    "depth": 12,
+    "height": 36
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2436",
+    "name": "Wall Single Door 24x36",
+    "width": 24,
+    "depth": 12,
+    "height": 36
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2436B",
+    "name": "Wall Double Door 24x36",
+    "width": 24,
+    "depth": 12,
+    "height": 36
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2736B",
+    "name": "Wall Double Door 27x36",
+    "width": 27,
+    "depth": 12,
+    "height": 36
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3036B",
+    "name": "Wall Double Door 30x36",
+    "width": 30,
+    "depth": 12,
+    "height": 36
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3336B",
+    "name": "Wall Double Door 33x36",
+    "width": 33,
+    "depth": 12,
+    "height": 36
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3636B",
+    "name": "Wall Double Door 36x36",
+    "width": 36,
+    "depth": 12,
+    "height": 36
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3936",
+    "name": "Wall Cabinet 39x36",
+    "width": 39,
+    "depth": 12,
+    "height": 36
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W4236",
+    "name": "Wall Cabinet 42x36",
+    "width": 42,
+    "depth": 12,
+    "height": 36
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W4536",
+    "name": "Wall Cabinet 45x36",
+    "width": 45,
+    "depth": 12,
+    "height": 36
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W4836",
+    "name": "Wall Cabinet 48x36",
+    "width": 48,
+    "depth": 12,
+    "height": 36
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W939",
+    "name": "Wall Single Door 9x39",
+    "width": 9,
+    "depth": 12,
+    "height": 39
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1239",
+    "name": "Wall Single Door 12x39",
+    "width": 12,
+    "depth": 12,
+    "height": 39
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1539",
+    "name": "Wall Single Door 15x39",
+    "width": 15,
+    "depth": 12,
+    "height": 39
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1839",
+    "name": "Wall Single Door 18x39",
+    "width": 18,
+    "depth": 12,
+    "height": 39
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2139",
+    "name": "Wall Single Door 21x39",
+    "width": 21,
+    "depth": 12,
+    "height": 39
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2439",
+    "name": "Wall Single Door 24x39",
+    "width": 24,
+    "depth": 12,
+    "height": 39
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2439B",
+    "name": "Wall Double Door 24x39",
+    "width": 24,
+    "depth": 12,
+    "height": 39
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2739B",
+    "name": "Wall Double Door 27x39",
+    "width": 27,
+    "depth": 12,
+    "height": 39
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3039B",
+    "name": "Wall Double Door 30x39",
+    "width": 30,
+    "depth": 12,
+    "height": 39
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3339B",
+    "name": "Wall Double Door 33x39",
+    "width": 33,
+    "depth": 12,
+    "height": 39
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3639B",
+    "name": "Wall Double Door 36x39",
+    "width": 36,
+    "depth": 12,
+    "height": 39
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3939",
+    "name": "Wall Cabinet 39x39",
+    "width": 39,
+    "depth": 12,
+    "height": 39
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W4239",
+    "name": "Wall Cabinet 42x39",
+    "width": 42,
+    "depth": 12,
+    "height": 39
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W4539",
+    "name": "Wall Cabinet 45x39",
+    "width": 45,
+    "depth": 12,
+    "height": 39
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W4839",
+    "name": "Wall Cabinet 48x39",
+    "width": 48,
+    "depth": 12,
+    "height": 39
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W942",
+    "name": "Wall Single Door 9x42",
+    "width": 9,
+    "depth": 12,
+    "height": 42
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1242",
+    "name": "Wall Single Door 12x42",
+    "width": 12,
+    "depth": 12,
+    "height": 42
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1542",
+    "name": "Wall Single Door 15x42",
+    "width": 15,
+    "depth": 12,
+    "height": 42
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W1842",
+    "name": "Wall Single Door 18x42",
+    "width": 18,
+    "depth": 12,
+    "height": 42
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2142",
+    "name": "Wall Single Door 21x42",
+    "width": 21,
+    "depth": 12,
+    "height": 42
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2442",
+    "name": "Wall Single Door 24x42",
+    "width": 24,
+    "depth": 12,
+    "height": 42
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2442B",
+    "name": "Wall Double Door 24x42",
+    "width": 24,
+    "depth": 12,
+    "height": 42
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W2742B",
+    "name": "Wall Double Door 27x42",
+    "width": 27,
+    "depth": 12,
+    "height": 42
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3042B",
+    "name": "Wall Double Door 30x42",
+    "width": 30,
+    "depth": 12,
+    "height": 42
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3342B",
+    "name": "Wall Double Door 33x42",
+    "width": 33,
+    "depth": 12,
+    "height": 42
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3642B",
+    "name": "Wall Double Door 36x42",
+    "width": 36,
+    "depth": 12,
+    "height": 42
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W3942",
+    "name": "Wall Cabinet 39x42",
+    "width": 39,
+    "depth": 12,
+    "height": 42
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W4242",
+    "name": "Wall Cabinet 42x42",
+    "width": 42,
+    "depth": 12,
+    "height": 42
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W4542",
+    "name": "Wall Cabinet 45x42",
+    "width": 45,
+    "depth": 12,
+    "height": 42
+  },
+  {
+    "type": "cabinet",
+    "category": "Upper Cabinets",
+    "code": "W4842",
+    "name": "Wall Cabinet 48x42",
+    "width": 48,
+    "depth": 12,
+    "height": 42
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B12",
+    "name": "Base 12\"",
+    "width": 12,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B15",
+    "name": "Base 15\"",
+    "width": 15,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B18",
+    "name": "Base 18\"",
+    "width": 18,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B21",
+    "name": "Base 21\"",
+    "width": 21,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B24",
+    "name": "Base 24\"",
+    "width": 24,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B24B",
+    "name": "Base Double Door 24\"",
+    "width": 24,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B27B",
+    "name": "Base Double Door 27\"",
+    "width": 27,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B30B",
+    "name": "Base Double Door 30\"",
+    "width": 30,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B33B",
+    "name": "Base Double Door 33\"",
+    "width": 33,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B36B",
+    "name": "Base Double Door 36\"",
+    "width": 36,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B39",
+    "name": "Base Double Door 39\"",
+    "width": 39,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B42",
+    "name": "Base Double Door 42\"",
+    "width": 42,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B45",
+    "name": "Base Double Door 45\"",
+    "width": 45,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "B48",
+    "name": "Base Double Door 48\"",
+    "width": 48,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "SB21",
+    "name": "Sink Base Single Door 21\"",
+    "width": 21,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "SB24",
+    "name": "Sink Base Single Door 24\"",
+    "width": 24,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "SB24B",
+    "name": "Sink Base 24\"",
+    "width": 24,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "SB27B",
+    "name": "Sink Base 27\"",
+    "width": 27,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "SB30B",
+    "name": "Sink Base 30\"",
+    "width": 30,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "SB33B",
+    "name": "Sink Base 33\"",
+    "width": 33,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "SB36B",
+    "name": "Sink Base 36\"",
+    "width": 36,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "SB39",
+    "name": "Sink Base 39\"",
+    "width": 39,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "SB42",
+    "name": "Sink Base 42\"",
+    "width": 42,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "SB45",
+    "name": "Sink Base 45\"",
+    "width": 45,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "SB48",
+    "name": "Sink Base 48\"",
+    "width": 48,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "2BD18",
+    "name": "Two Drawer Base 18\"",
+    "width": 18,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "2BD21",
+    "name": "Two Drawer Base 21\"",
+    "width": 21,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "2BD24",
+    "name": "Two Drawer Base 24\"",
+    "width": 24,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "2BD27",
+    "name": "Two Drawer Base 27\"",
+    "width": 27,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "2BD30",
+    "name": "Two Drawer Base 30\"",
+    "width": 30,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "2BD33",
+    "name": "Two Drawer Base 33\"",
+    "width": 33,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "2BD36",
+    "name": "Two Drawer Base 36\"",
+    "width": 36,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "3BD12",
+    "name": "Three Drawer Base 12\"",
+    "width": 12,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "3BD15",
+    "name": "Three Drawer Base 15\"",
+    "width": 15,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "3BD18",
+    "name": "Three Drawer Base 18\"",
+    "width": 18,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "3BD21",
+    "name": "Three Drawer Base 21\"",
+    "width": 21,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "3BD24",
+    "name": "Three Drawer Base 24\"",
+    "width": 24,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "3BD27",
+    "name": "Three Drawer Base 27\"",
+    "width": 27,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "4BD12",
+    "name": "Four Drawer Base 12\"",
+    "width": 12,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "4BD15",
+    "name": "Four Drawer Base 15\"",
+    "width": 15,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "4BD18",
+    "name": "Four Drawer Base 18\"",
+    "width": 18,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "4BD21",
+    "name": "Four Drawer Base 21\"",
+    "width": 21,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "4BD24",
+    "name": "Four Drawer Base 24\"",
+    "width": 24,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "4BD27",
+    "name": "Four Drawer Base 27\"",
+    "width": 27,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "4BD30",
+    "name": "Four Drawer Base 30\"",
+    "width": 30,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "4BD33",
+    "name": "Four Drawer Base 33\"",
+    "width": 33,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Base Cabinets",
+    "code": "4BD36",
+    "name": "Four Drawer Base 36\"",
+    "width": 36,
+    "depth": 24,
+    "height": 34.5
+  },
+  {
+    "type": "cabinet",
+    "category": "Tall/Utility",
+    "code": "U128412",
+    "name": "Utility Cabinet 12x84 (12\"D)",
+    "width": 12,
+    "depth": 12,
+    "height": 84
+  },
+  {
+    "type": "cabinet",
+    "category": "Tall/Utility",
+    "code": "U158412",
+    "name": "Utility Cabinet 15x84 (12\"D)",
+    "width": 15,
+    "depth": 12,
+    "height": 84
+  },
+  {
+    "type": "cabinet",
+    "category": "Tall/Utility",
+    "code": "U188412",
+    "name": "Utility Cabinet 18x84 (12\"D)",
+    "width": 18,
+    "depth": 12,
+    "height": 84
+  },
+  {
+    "type": "cabinet",
+    "category": "Tall/Utility",
+    "code": "U248412",
+    "name": "Utility Cabinet 24x84 (12\"D)",
+    "width": 24,
+    "depth": 12,
+    "height": 84
+  },
+  {
+    "type": "cabinet",
+    "category": "Tall/Utility",
+    "code": "U128424",
+    "name": "Utility Cabinet 12x84 (24\"D)",
+    "width": 12,
+    "depth": 24,
+    "height": 84
+  },
+  {
+    "type": "cabinet",
+    "category": "Tall/Utility",
+    "code": "U158424",
+    "name": "Utility Cabinet 15x84 (24\"D)",
+    "width": 15,
+    "depth": 24,
+    "height": 84
+  },
+  {
+    "type": "cabinet",
+    "category": "Tall/Utility",
+    "code": "U188424",
+    "name": "Utility Cabinet 18x84 (24\"D)",
+    "width": 18,
+    "depth": 24,
+    "height": 84
+  },
+  {
+    "type": "cabinet",
+    "category": "Tall/Utility",
+    "code": "U248424",
+    "name": "Utility Cabinet 24x84 (24\"D)",
+    "width": 24,
+    "depth": 24,
+    "height": 84
+  },
+  {
+    "type": "cabinet",
+    "category": "Tall/Utility",
+    "code": "U308424",
+    "name": "Utility Cabinet 30x84 (24\"D)",
+    "width": 30,
+    "depth": 24,
+    "height": 84
+  },
+  {
+    "type": "cabinet",
+    "category": "Tall/Utility",
+    "code": "U368424",
+    "name": "Utility Cabinet 36x84 (24\"D)",
+    "width": 36,
+    "depth": 24,
+    "height": 84
+  },
+  {
+    "type": "cabinet",
+    "category": "Tall/Utility",
+    "code": "U129024",
+    "name": "Utility Cabinet 12x90 (24\"D)",
+    "width": 12,
+    "depth": 24,
+    "height": 90
+  },
+  {
+    "type": "cabinet",
+    "category": "Tall/Utility",
+    "code": "U189024",
+    "name": "Utility Cabinet 18x90 (24\"D)",
+    "width": 18,
+    "depth": 24,
+    "height": 90
+  },
+  {
+    "type": "cabinet",
+    "category": "Tall/Utility",
+    "code": "U249024",
+    "name": "Utility Cabinet 24x90 (24\"D)",
+    "width": 24,
+    "depth": 24,
+    "height": 90
+  },
+  {
+    "type": "cabinet",
+    "category": "Tall/Utility",
+    "code": "U309024",
+    "name": "Utility Cabinet 30x90 (24\"D)",
+    "width": 30,
+    "depth": 24,
+    "height": 90
+  },
+  {
+    "type": "cabinet",
+    "category": "Tall/Utility",
+    "code": "U369024",
+    "name": "Utility Cabinet 36x90 (24\"D)",
+    "width": 36,
+    "depth": 24,
+    "height": 90
+  },
+  {
+    "type": "cabinet",
+    "category": "Tall/Utility",
+    "code": "U129624",
+    "name": "Utility Cabinet 12x96 (24\"D)",
+    "width": 12,
+    "depth": 24,
+    "height": 96
+  },
+  {
+    "type": "cabinet",
+    "category": "Tall/Utility",
+    "code": "U189624",
+    "name": "Utility Cabinet 18x96 (24\"D)",
+    "width": 18,
+    "depth": 24,
+    "height": 96
+  },
+  {
+    "type": "cabinet",
+    "category": "Tall/Utility",
+    "code": "U249624",
+    "name": "Utility Cabinet 24x96 (24\"D)",
+    "width": 24,
+    "depth": 24,
+    "height": 96
+  },
+  {
+    "type": "cabinet",
+    "category": "Tall/Utility",
+    "code": "U309624",
+    "name": "Utility Cabinet 30x96 (24\"D)",
+    "width": 30,
+    "depth": 24,
+    "height": 96
+  },
+  {
+    "type": "cabinet",
+    "category": "Tall/Utility",
+    "code": "U369624",
+    "name": "Utility Cabinet 36x96 (24\"D)",
+    "width": 36,
+    "depth": 24,
+    "height": 96
+  },
+  {
+    "type": "cabinet",
+    "category": "Vanities",
+    "code": "VSB2418B",
+    "name": "Vanity Sink Base 24x18",
+    "width": 24,
+    "depth": 18,
+    "height": 32
+  },
+  {
+    "type": "cabinet",
+    "category": "Vanities",
+    "code": "VSB3018B",
+    "name": "Vanity Sink Base 30x18",
+    "width": 30,
+    "depth": 18,
+    "height": 32
+  },
+  {
+    "type": "cabinet",
+    "category": "Vanities",
+    "code": "VSB3618B",
+    "name": "Vanity Sink Base 36x18",
+    "width": 36,
+    "depth": 18,
+    "height": 32
+  },
+  {
+    "type": "cabinet",
+    "category": "Vanities",
+    "code": "VSB24B",
+    "name": "Vanity Sink Base 24x21",
+    "width": 24,
+    "depth": 21,
+    "height": 32
+  },
+  {
+    "type": "cabinet",
+    "category": "Vanities",
+    "code": "VSB30B",
+    "name": "Vanity Sink Base 30x21",
+    "width": 30,
+    "depth": 21,
+    "height": 32
+  },
+  {
+    "type": "cabinet",
+    "category": "Vanities",
+    "code": "VSB36B",
+    "name": "Vanity Sink Base 36x21",
+    "width": 36,
+    "depth": 21,
+    "height": 32
+  },
+  {
+    "type": "cabinet",
+    "category": "Vanities",
+    "code": "VSB48",
+    "name": "Vanity Sink Base 48x21",
+    "width": 48,
+    "depth": 21,
+    "height": 32
+  },
+  {
+    "type": "cabinet",
+    "category": "Vanities",
+    "code": "VSB60",
+    "name": "Vanity Sink Base 60x21",
+    "width": 60,
+    "depth": 21,
+    "height": 32
+  },
+  {
+    "type": "cabinet",
+    "category": "Vanities",
+    "code": "VB12",
+    "name": "Vanity Base 12\"",
+    "width": 12,
+    "depth": 21,
+    "height": 32
+  },
+  {
+    "type": "cabinet",
+    "category": "Vanities",
+    "code": "VB18",
+    "name": "Vanity Base 18\"",
+    "width": 18,
+    "depth": 21,
+    "height": 32
+  },
+  {
+    "type": "cabinet",
+    "category": "Vanities",
+    "code": "VB24",
+    "name": "Vanity Base 24\"",
+    "width": 24,
+    "depth": 21,
+    "height": 32
+  },
+  {
+    "type": "cabinet",
+    "category": "Vanities",
+    "code": "VB30",
+    "name": "Vanity Base 30\"",
+    "width": 30,
+    "depth": 21,
+    "height": 32
+  },
+  {
+    "type": "cabinet",
+    "category": "Vanities",
+    "code": "VBD12",
+    "name": "Vanity Three Drawer Base 12\"",
+    "width": 12,
+    "depth": 21,
+    "height": 32
+  },
+  {
+    "type": "cabinet",
+    "category": "Vanities",
+    "code": "VBD18",
+    "name": "Vanity Three Drawer Base 18\"",
+    "width": 18,
+    "depth": 21,
+    "height": 32
+  },
+  {
+    "type": "cabinet",
+    "category": "Vanities",
+    "code": "VBD24",
+    "name": "Vanity Three Drawer Base 24\"",
+    "width": 24,
+    "depth": 21,
+    "height": 32
+  },
+  {
+    "type": "cabinet",
+    "category": "Vanities",
+    "code": "VBD30",
+    "name": "Vanity Three Drawer Base 30\"",
+    "width": 30,
+    "depth": 21,
+    "height": 32
+  },
+  {
+    "type": "cabinet",
+    "category": "Vanities",
+    "code": "VBD36",
+    "name": "Vanity Three Drawer Base 36\"",
+    "width": 36,
+    "depth": 21,
+    "height": 32
+  },
+  {
+    "type": "cabinet",
+    "category": "Vanities",
+    "code": "LT1884",
+    "name": "Linen Tower 18x84",
+    "width": 18,
+    "depth": 21,
+    "height": 84
+  }
+]
